@@ -1,0 +1,6 @@
+# vim
+.*.swp
+
+# build
+yarn-error.log
+
